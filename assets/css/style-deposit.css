@@ -30,9 +30,11 @@ body {
     margin: 5%;
     min-height: 400px;
 
+   
+
 }
 
-#deposito{
+.deposito{
     border-radius: 20px;
 }
 

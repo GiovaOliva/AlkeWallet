@@ -91,4 +91,9 @@ body {
     .div5 {
         grid-area: 5/1/5/4;
     }
+    
+    option{
+        font-size: 12px;
+    }
+    
 }   
